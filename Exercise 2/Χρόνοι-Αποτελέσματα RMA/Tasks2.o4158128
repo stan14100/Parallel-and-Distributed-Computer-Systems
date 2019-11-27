@@ -1,0 +1,19 @@
+==== Run starts now ======= Thu Jan  5 18:14:57 EET 2017 
+Split the Board to 2 pieces of (Size/NumofTasks)  40000x40000 with propability: 50.0%
+Time to compute the initialize codes            : 1.173333s
+Board initialized from task 0
+Time to compute the initialize codes            : 1.175849s
+Board initialized from task 1
+Time to compute the generate codes            : 4.188507s
+Board generated from task 1
+Time to compute the generate codes            : 4.194179s
+Board generated from task 0
+Time to compute the play codes for task 1  : 18.821789s
+Time to compute the play codes for task 0  : 18.845890s
+Time to compute the play codes for task 0  : 18.849122s
+Time to compute the play codes for task 1  : 18.884975s
+Time to compute the play codes for task 1  : 18.814682s
+Game finished after 3 generations for task 1.
+Time to compute the play codes for task 0  : 18.836432s
+Game finished after 3 generations for task 0.
+==== Run ends now ======= Thu Jan  5 18:15:59 EET 2017 

@@ -1,0 +1,33 @@
+Split the Board to 4 pieces of (Size/NumofTasks) 20000x80000 with propability: 50.0%
+Time to compute the initialize codes            : 1.173742s
+Board initialized from task 0
+Time to compute the initialize codes            : 1.175398s
+Board initialized from task 2
+Time to compute the initialize codes            : 1.214745s
+Board initialized from task 1
+Time to compute the initialize codes            : 1.222608s
+Board initialized from task 3
+Time to compute the generate codes            : 4.188940s
+Board generated from task 2
+Time to compute the generate codes            : 4.223018s
+Board generated from task 0
+Time to compute the generate codes            : 4.193840s
+Board generated from task 1
+Time to compute the generate codes            : 4.187248s
+Board generated from task 3
+Time to compute the play codes for task 3  : 19.790703s
+Time to compute the play codes for task 2  : 20.248227s
+Time to compute the play codes for task 0  : 20.227148s
+Time to compute the play codes for task 1  : 20.216545s
+Time to compute the play codes for task 0  : 18.882503s
+Time to compute the play codes for task 2  : 18.913690s
+Time to compute the play codes for task 1  : 18.907628s
+Time to compute the play codes for task 3  : 19.334799s
+Time to compute the play codes for task 1  : 18.869834s
+Game finished after 3 generations for task 1.
+Time to compute the play codes for task 2  : 18.911360s
+Game finished after 3 generations for task 2.
+Time to compute the play codes for task 3  : 18.910905s
+Game finished after 3 generations for task 3.
+Time to compute the play codes for task 0  : 18.941397s
+Game finished after 3 generations for task 0.

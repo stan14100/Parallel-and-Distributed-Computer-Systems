@@ -1,0 +1,10 @@
+Number of tasks = 1
+Size 40000x40000 with propability for 1 Number of Tasks: 50.0%
+Time to compute the initialize codes            : 1.181570s
+Board initialized
+Time to compute the generate codes            : 4.192270s
+Board generated
+Time to compute the play codes for task 0  : 20.139690s
+Time to compute the play codes for task 0  : 18.868233s
+Time to compute the play codes for task 0  : 18.802515s
+Game finished after 3 generations.

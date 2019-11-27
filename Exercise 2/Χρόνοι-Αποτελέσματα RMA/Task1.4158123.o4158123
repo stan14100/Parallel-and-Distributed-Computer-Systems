@@ -1,0 +1,12 @@
+==== Run starts now ======= Thu Jan  5 18:08:04 EET 2017 
+Number of tasks = 1
+Size 40000x40000 with propability for 1 Number of Tasks: 50.0%
+Time to compute the initialize codes            : 1.181030s
+Board initialized
+Time to compute the generate codes            : 4.193210s
+Board generated
+Time to compute the play codes for task 0  : 18.799202s
+Time to compute the play codes for task 0  : 18.810181s
+Time to compute the play codes for task 0  : 18.794512s
+Game finished after 3 generations.
+==== Run ends now ======= Thu Jan  5 18:09:06 EET 2017 
